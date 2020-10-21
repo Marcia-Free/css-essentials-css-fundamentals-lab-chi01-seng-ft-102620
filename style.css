@@ -42,9 +42,10 @@ figcaption {
   text-align: center;
   display: block;
 }
+
 #details > div {
   float: left;
-  background-color: gray;
+  background-color: red;
   text-align: center;
   width: 25%;
 }
