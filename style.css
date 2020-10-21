@@ -36,6 +36,7 @@ figcaption {
 }
 
 #details {
+  position: fixed;
   
   display: block;
   float: left;
