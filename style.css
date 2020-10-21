@@ -32,6 +32,7 @@ figcaption {
 }
 
 #details {
+  vert
   display: block;
   float: left;
 }
